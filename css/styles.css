@@ -134,6 +134,14 @@ button:focus,
   grid-gap: 20px;
 }
 
+.app-page{
+
+  width: 70%;
+  height: 70%;
+  background-color: #f76414;
+
+}
+
 .grid-item {
   background-color: var(--lightgray);
 }

@@ -157,7 +157,7 @@ button:focus,
   text-align: center;
 }
 
-.about-content {
+.about-content, .app-page {
   max-width: 500px;
   margin: auto;
   text-align: center;
